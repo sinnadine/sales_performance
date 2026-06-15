@@ -2,7 +2,8 @@
 The purpose of sales dashboard is to present an overview of the sales metrics and trends in order to analyze year-over-year sales performance and understand sales trends.
 
 # Visualization
-[Sales Performance](https://public.tableau.com/views/SalesPerformance_17812481754140/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Sales Performance in Tableau](https://public.tableau.com/views/SalesPerformance_17812481754140/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 # Key Requirements
 
