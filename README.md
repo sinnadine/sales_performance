@@ -165,54 +165,50 @@ sales-customer-tableau-analysis
 └── LICENSE
 
 # Tableau Public Dashboard
-
-The interactive version of the project is available on Tableau Public:
-
 View the live dashboard on Tableau Public
-
-[Dashboard](sales_dashboard)
-
-[Open Sales Performance in Tableau](https://public.tableau.com/views/SalesPerformance_17812481754140/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-
-# Key Requirements
-
-## KPI Overview
-Display a summary of total sales, profits and quantity for the current year and the previous year.
-
-## Sales Trends
-- Present the data for each KPI on a monthly basis for both the current year and the previous year.
-- Identify months with highest and lowest sales and make them easy to recognize.
-
-## Product Subcategory Comparison
-- Compare sales performance by different product subcategories for the current year and the previous year.
-- Include a comparison of sales with profit.
-
-## Weekly Trends for Sales & Profit
-- Present weekly sales and profit data for the current year.
-- Display the average weekly values.
-- Highlight weeks that are above and below the average to draw attention to sales & profit performance.
-
-## Customer Distribution by Number of Orders
-Represent the distribution of customers based on the number of orders they have placed to provide insights into customer behaviour and engagement.
-
-## Top 10 Customers By Profit
-- Present the top 10 customers who have generated the highest profits for the company.
-- Show additional information like rank, number of orders, current sales, current profit and the last order date.
-
-# Design & Interactivity Requirements
-
-## Dashboard Dynamic
-- The Dashboard should allow users to check historical data by offering them the flexibility to select any desired year.
-- Provide users with the ability to navigate between the dashboards easily.
-- Make the charts and graphs interactive, enabling users to filter data using the charts.
-
-## Data Filters
-Allow users to filter data by product information like category and subcategory and by location information like region, state and city.
+[Open Sales Performance in Tableau](https://public.tableau.com/views/SalesCustomerDashboards_17837210312740/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 # Project Purpose
 
 I developed this project as part of my Data Analyst portfolio to demonstrate my practical Tableau, data visualization, KPI analysis, and business intelligence skills.
 
 The project shows how I approach the full analytical process: from understanding business requirements and preparing data to building interactive dashboards and communicating actionable insights.
+
+## Key Requirements
+
+### KPI Overview
+Display a summary of total sales, profits and quantity for the current year and the previous year.
+
+### Sales Trends
+- Present the data for each KPI on a monthly basis for both the current year and the previous year.
+- Identify months with highest and lowest sales and make them easy to recognize.
+
+### Product Subcategory Comparison
+- Compare sales performance by different product subcategories for the current year and the previous year.
+- Include a comparison of sales with profit.
+
+### Weekly Trends for Sales & Profit
+- Present weekly sales and profit data for the current year.
+- Display the average weekly values.
+- Highlight weeks that are above and below the average to draw attention to sales & profit performance.
+
+### Customer Distribution by Number of Orders
+Represent the distribution of customers based on the number of orders they have placed to provide insights into customer behaviour and engagement.
+
+### Top 10 Customers By Profit
+- Present the top 10 customers who have generated the highest profits for the company.
+- Show additional information like rank, number of orders, current sales, current profit and the last order date.
+
+## Design & Interactivity Requirements
+
+### Dashboard Dynamic
+- The Dashboard should allow users to check historical data by offering them the flexibility to select any desired year.
+- Provide users with the ability to navigate between the dashboards easily.
+- Make the charts and graphs interactive, enabling users to filter data using the charts.
+
+### Data Filters
+Allow users to filter data by product information like category and subcategory and by location information like region, state and city.
+
+
+
 
