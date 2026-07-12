@@ -146,23 +146,26 @@ Through this project, I demonstrated my ability to:
 - GitHub — project documentation and file storage
 - Business intelligence — performance monitoring and analytical reporting
 
-# Repository Structure
-sales-customer-tableau-analysis
+
+## Project Structure
+
+```text
+📁 TABLEAU_project_sales-customers
 │
-├── dashboards
-│   ├── sales_performance_dashboard.png
-│   └── customer_analysis_dashboard.png
+├── 📁 dashboard-images
+│   ├── CustomerDashboard.png
+│   └── SalesDashboard.png
 │
-├── data
-│   ├── Customers.csv
-│   ├── Orders.csv
-│   └── Products.csv
-│
-├── tableau
-│   └── Sales_Customer_Analysis.twbx
+├── 📁 datasets
+│   └── 📁 non-eu
+│       ├── Customers.csv
+│       ├── Location.csv
+│       ├── Orders.csv
+│       └── Products.csv
 │
 ├── README.md
-└── LICENSE
+└── Sales & Customer Dashboards.twb
+```
 
 # Tableau Public Dashboard
 View the live dashboard on Tableau Public
