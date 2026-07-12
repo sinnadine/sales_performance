@@ -31,7 +31,7 @@ I created these dashboards to provide a consolidated view of these metrics and m
 
 # Dashboards
 ## 1. Sales Performance Dashboard
-![Sales Performance](SalesDashboard.png)
+![Sales Performance](dashboard-images/SalesDashboard.png)
 
 I created the Sales Performance Dashboard to provide a high-level overview of business performance and highlight changes over time.
 
@@ -51,7 +51,7 @@ The dashboard allows users to quickly determine whether business performance imp
 
 
 # 2. Customer Analysis Dashboard
-![Customer Analysis Dashboard](CustomerDashboard.png)
+![Customer Analysis Dashboard](dashboard-images/CustomerDashboard.png)
 
 I developed the Customer Analysis Dashboard to explore customer activity, purchasing frequency, and profitability.
 
