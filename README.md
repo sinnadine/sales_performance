@@ -32,7 +32,7 @@ I created these dashboards to provide a consolidated view of these metrics and m
 
 # Dashboards
 ## 1. Sales Performance Dashboard
-![Sales Performance]()
+![Sales Performance](Sales Dashboard.png)
 
 I created the Sales Performance Dashboard to provide a high-level overview of business performance and highlight changes over time.
 
