@@ -150,7 +150,7 @@ Through this project, I demonstrated my ability to:
 ## Project Structure
 
 ```text
-📁 TABLEAU_project_sales-customers
+📁 Tableau_project_sales_customer_dashboards
 │
 ├── 📁 dashboard-images
 │   ├── CustomerDashboard.png
