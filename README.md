@@ -70,7 +70,7 @@ The dashboard includes:
 This dashboard helps identify valuable repeat customers and understand how customer engagement changes throughout the year.
 
 
-# Data Preparation
+## Data Preparation
 
 For this project, I worked with transactional data stored in CSV files.
 
@@ -98,31 +98,15 @@ I also created calculations for:
 - Sales per customer
 - Order frequency
 
-# Key Findings
+## Key Findings
 
-Based on the 2023 dashboard results, I identified several important patterns.
+- **Overall Business Growth:** Sales, profit, quantity sold, and the number of orders increased compared with 2022, indicating positive overall business growth.
+- **Seasonal Performance:** The strongest sales and customer activity occurred toward the end of the year, suggesting a clear seasonal pattern in customer demand.
+- **Sales Do Not Always Equal Profit:** Some product subcategories generated high sales but relatively low profit, showing that revenue should be analyzed together with profitability and margins.
+- **Customer Concentration:** A relatively small group of customers contributed a significant share of total profit, making them an important segment for retention and personalized marketing.
+- **Customer Order Frequency:** Most customers placed between one and three orders, while customers with four or more orders formed a smaller but potentially more valuable repeat-customer segment.
 
-## Overall Business Growth
-
-Sales, profit, quantity sold, and the number of orders increased compared with 2022. This indicates positive overall business growth during the analyzed period.
-
-## Seasonal Performance
-
-Sales and customer activity were not distributed evenly throughout the year. The strongest results appeared toward the end of the year, suggesting a clear seasonal pattern in customer demand.
-
-## Sales Do Not Always Equal Profit
-
-Some product subcategories generated relatively high sales but produced much lower profit. This demonstrates why sales revenue should be analyzed together with profitability and margins.
-
-## Customer Concentration
-
-A relatively small group of customers generated a significant share of total profit. These customers may represent an important segment for retention and personalized marketing activities.
-
-## Customer Order Frequency
-
-Most customers placed between one and three orders. Customers with four or more orders formed a smaller but potentially more valuable repeat-customer segment.
-
-# Skills Demonstrated
+## Skills Demonstrated
 
 Through this project, I demonstrated my ability to:
 - Define and calculate business KPIs
@@ -138,7 +122,7 @@ Through this project, I demonstrated my ability to:
 - Translate business requirements into analytical solutions
 - Present analytical findings clearly to stakeholders
 
-# Tools and Technologies
+## Tools and Technologies
 - Tableau Public — dashboard development and data visualization
 - CSV — source data storage
 - Tableau calculated fields — KPI and year-over-year calculations
@@ -171,7 +155,7 @@ Through this project, I demonstrated my ability to:
 View the live dashboard on Tableau Public
 [Open Sales Performance in Tableau](https://public.tableau.com/views/SalesCustomerDashboards_17837210312740/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-# Project Purpose
+# Project NOTE
 
 I developed this project as part of my Data Analyst portfolio to demonstrate my practical Tableau, data visualization, KPI analysis, and business intelligence skills.
 
