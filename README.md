@@ -33,6 +33,7 @@ I created these dashboards to provide a consolidated view of these metrics and m
 # Dashboards
 ## 1. Sales Performance Dashboard
 
+
 I created the Sales Performance Dashboard to provide a high-level overview of business performance and highlight changes over time.
 
 The dashboard includes:
@@ -181,11 +182,6 @@ View the live dashboard on Tableau Public
 
 [Open Sales Performance in Tableau](https://public.tableau.com/views/SalesPerformance_17812481754140/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-# Project Purpose
-
-I developed this project as part of my Data Analyst portfolio to demonstrate my practical Tableau, data visualization, KPI analysis, and business intelligence skills.
-
-The project shows how I approach the full analytical process: from understanding business requirements and preparing data to building interactive dashboards and communicating actionable insights.
 
 # Key Requirements
 
@@ -221,3 +217,10 @@ Represent the distribution of customers based on the number of orders they have 
 
 ## Data Filters
 Allow users to filter data by product information like category and subcategory and by location information like region, state and city.
+
+# Project Purpose
+
+I developed this project as part of my Data Analyst portfolio to demonstrate my practical Tableau, data visualization, KPI analysis, and business intelligence skills.
+
+The project shows how I approach the full analytical process: from understanding business requirements and preparing data to building interactive dashboards and communicating actionable insights.
+
